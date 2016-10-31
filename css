@@ -1,0 +1,30 @@
+
+/*Cookie-rettelser*/
+#cookie-law-info-bar {
+    width: 110px;
+    margin: 0 40px;
+    display: block;
+    font-family: inherit;
+    bottom: 0px;
+    position: fixed;
+    border: 0;
+    font-size: 10pt;
+    text-align: center;
+    z-index: 9999;
+}
+
+.cli-plugin-button, .cli-plugin-button:visited {
+    border: none;
+    border-radius: 50%;
+    width: 39px;
+    height: 39px;
+    padding-top: 23px;
+    background: none;
+}
+
+#cookie_action_close_header {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: "open sans";
+    padding-top: 13px;
+}
